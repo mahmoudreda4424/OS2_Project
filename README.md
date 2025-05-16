@@ -31,5 +31,6 @@ It also includes a `Dockerfile` to containerize the application, making it easy 
 ## 👨‍💻 Author
 
 **Mahmoud Reda**  
-Student at [faculty of computer and information science].
-Contact: [Linkedin ProFile](https://githubhttps://www.linkedin.com/in/mahmoudredaprofile.com/mahmoudreda4424)
+Student at [Faculty of Computer & Information Sciences - Mansoura University]  
+Contact: [LinkedIn Profile](https://www.linkedin.com/in/mahmoudredaprofile)]
+
