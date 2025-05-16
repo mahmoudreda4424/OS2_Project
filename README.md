@@ -32,4 +32,4 @@ It also includes a `Dockerfile` to containerize the application, making it easy 
 
 **Mahmoud Reda**  
 Student at [faculty of computer and information science].
-Contact: [Linkedin ProFile](https://github.com/mahmoudreda4424](https://www.linkedin.com/in/mahmoudredaprofile?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BN5OpryD4SQ2EEmXYMB8PCg%3D%3D))
+Contact: [Linkedin ProFile](https://githubhttps://www.linkedin.com/in/mahmoudredaprofile.com/mahmoudreda4424)
