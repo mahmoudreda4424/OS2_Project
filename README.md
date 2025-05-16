@@ -31,5 +31,5 @@ It also includes a `Dockerfile` to containerize the application, making it easy 
 ## 👨‍💻 Author
 
 **Mahmoud Reda**  
-Student of [Your University Name](faculty of computer and information science)  
-Contact: [[your email or GitHub link](https://github.com/mahmoudreda4424)
+Student at [faculty of computer and information science]
+Contact: [Linkedin ProFile]([https://github.com/mahmoudreda4424](https://www.linkedin.com/in/mahmoudredaprofile?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BN5OpryD4SQ2EEmXYMB8PCg%3D%3D))
